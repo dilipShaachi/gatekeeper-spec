@@ -9,7 +9,7 @@ Create these accounts before Day 1. All free.
 ### 1. GitHub
 **URL:** https://github.com
 **Why:** All code lives here. You'll fork the spec repo and create your project repo.
-**After signup:** Send your GitHub username to Shatrugna to get added to the org.
+**After signup:** Send your GitHub username to Dilip to get added to the org.
 
 ---
 
@@ -18,7 +18,7 @@ Create these accounts before Day 1. All free.
 **Why:** Where the Gatekeeper backend API runs.
 **Steps:**
 1. Sign up with GitHub (easiest)
-2. Send your Railway email to Shatrugna
+2. Send your Railway email to Dilip
 3. You'll receive an invite to the project
 
 **Dev1 only** — Dev2 doesn't need Railway.
@@ -81,7 +81,7 @@ DATABASE_URL=postgresql://user:password@ep-xxx.neon.tech/neondb?sslmode=require
 **Steps:**
 1. Sign up free
 2. Run `npm login` in terminal
-3. Send your npm username to Shatrugna
+3. Send your npm username to Dilip
 
 **Dev2 only.**
 
@@ -111,11 +111,11 @@ GOOGLE_CLIENT_SECRET=<optional for now>
 
 ---
 
-## How to Request Access from Shatrugna
+## How to Request Access from Dilip
 
-Some things require Shatrugna to add you. Send him **one message** with all of these at once — don't send separate messages for each.
+Some things require Dilip to add you. Send him **one message** with all of these at once — don't send separate messages for each.
 
-**Send this message to Shatrugna on Day 1:**
+**Send this message to Dilip on Day 1:**
 
 ```
 Hey! Here's everything I need added:
@@ -129,7 +129,7 @@ Also need these env vars:
 - STRIPE keys (Dev2, when ready for Week 2)
 ```
 
-**What Shatrugna will do:**
+**What Dilip will do:**
 - Add you to the GitHub repo as a collaborator
 - Invite you to the Railway project (Dev1)
 - Share production env vars via Telegram (not email)
@@ -145,7 +145,7 @@ Also need these env vars:
 
 
 
-- [ ] GitHub account created, username sent to Shatrugna
+- [ ] GitHub account created, username sent to Dilip
 - [ ] Railway account created (Dev1)
 - [ ] Vercel account created (Dev2)
 - [ ] Neon account + project created (Dev1)
