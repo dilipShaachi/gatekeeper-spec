@@ -17,8 +17,8 @@ Each intern posts every morning:
 
 ## Week 1 — Core Engine (Days 1-7)
 
-| Day | Intern 1 (Backend) | Intern 2 (Frontend) |
-|-----|-------------------|---------------------|
+| Day | Dev1 (Backend) | Dev2 (Frontend) |
+|-----|----------------|-----------------|
 | 1 | Repo setup, FastAPI skeleton, proxy endpoint | Repo setup, Next.js skeleton, landing page hero |
 | 2 | Proxy working (OpenAI + Anthropic) | Landing page sections + live demo widget (mock data) |
 | 3 | PII detection (Presidio) | CLI scaffold, `scan` command |
@@ -33,8 +33,8 @@ Each intern posts every morning:
 
 ## Week 2 — Enterprise Layer (Days 8-14)
 
-| Day | Intern 1 (Backend) | Intern 2 (Frontend) |
-|-----|-------------------|---------------------|
+| Day | Dev1 (Backend) | Dev2 (Frontend) |
+|-----|----------------|-----------------|
 | 8 | SOC-2 policy pack (YAML) | Dashboard live stats page |
 | 9 | HIPAA policy pack | Audit log table + filters |
 | 10 | Policy engine (evaluate rules against requests) | Policy builder UI |
@@ -49,8 +49,8 @@ Each intern posts every morning:
 
 ## Week 3 — Demo Killer (Days 15-21)
 
-| Day | Intern 1 (Backend) | Intern 2 (Frontend) |
-|-----|-------------------|---------------------|
+| Day | Dev1 (Backend) | Dev2 (Frontend) |
+|-----|----------------|-----------------|
 | 15 | Workato connector research + scaffold | demo.gatekeeper.dev scaffold |
 | 16 | Workato connector working | Demo scary examples + real-time results |
 | 17 | "Explain this block" feature | SOC-2 PDF report generator |

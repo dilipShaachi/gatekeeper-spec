@@ -5,8 +5,8 @@
 | File | Read this if... |
 |---|---|
 | [`CONTEXT.md`](CONTEXT.md) | **Read first.** Why we're building this, the business, the moat |
-| [`INTERN-1-BACKEND.md`](INTERN-1-BACKEND.md) | You're building the proxy engine + policy layer |
-| [`INTERN-2-FRONTEND.md`](INTERN-2-FRONTEND.md) | You're building the dashboard + CLI + landing page |
+| [`DEV1-BACKEND.md`](DEV1-BACKEND.md) | You're building the proxy engine + policy layer |
+| [`DEV2-FRONTEND.md`](DEV2-FRONTEND.md) | You're building the dashboard + CLI + landing page |
 | [`WEEK-BY-WEEK.md`](WEEK-BY-WEEK.md) | Daily sprint plan, standup format, milestones |
 | [`TOOLING.md`](TOOLING.md) | How to use Claude Code, o3, Cursor effectively |
 
