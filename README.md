@@ -9,6 +9,7 @@
 | [`DEV2-FRONTEND.md`](DEV2-FRONTEND.md) | You're building the dashboard + CLI + landing page |
 | [`WEEK-BY-WEEK.md`](WEEK-BY-WEEK.md) | Daily sprint plan, standup format, milestones |
 | [`TOOLING.md`](TOOLING.md) | How to use Claude Code, o3, Cursor effectively |
+| [`ACCOUNTS.md`](ACCOUNTS.md) | Every account to create before Day 1 + env vars |
 
 **Day 21 goal:** Live demo at `demo.gatekeeper.dev` that makes Workato say "we can't build this ourselves."
 
