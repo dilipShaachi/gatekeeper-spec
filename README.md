@@ -1,5 +1,19 @@
 # Gatekeeper — "Ship AI safely."
 
+## For Interns — Start Here
+
+| File | Read this if... |
+|---|---|
+| [`CONTEXT.md`](CONTEXT.md) | **Read first.** Why we're building this, the business, the moat |
+| [`INTERN-1-BACKEND.md`](INTERN-1-BACKEND.md) | You're building the proxy engine + policy layer |
+| [`INTERN-2-FRONTEND.md`](INTERN-2-FRONTEND.md) | You're building the dashboard + CLI + landing page |
+| [`WEEK-BY-WEEK.md`](WEEK-BY-WEEK.md) | Daily sprint plan, standup format, milestones |
+| [`TOOLING.md`](TOOLING.md) | How to use Claude Code, o3, Cursor effectively |
+
+**Day 21 goal:** Live demo at `demo.gatekeeper.dev` that makes Workato say "we can't build this ourselves."
+
+---
+
 ## What is Gatekeeper?
 
 A drop-in reverse proxy + compliance layer that sits between any app and OpenAI/Anthropic.
