@@ -111,7 +111,39 @@ GOOGLE_CLIENT_SECRET=<optional for now>
 
 ---
 
-## Day 1 Checklist
+## How to Request Access from Shatrugna
+
+Some things require Shatrugna to add you. Send him **one message** with all of these at once — don't send separate messages for each.
+
+**Send this message to Shatrugna on Day 1:**
+
+```
+Hey! Here's everything I need added:
+- GitHub username: [your username]
+- Railway email: [your email] (Dev1 only)
+- npm username: [your username] (Dev2 only)
+
+Also need these env vars:
+- AIDEPSHIELD_URL (Dev1)
+- Production DATABASE_URL (Dev1)
+- STRIPE keys (Dev2, when ready for Week 2)
+```
+
+**What Shatrugna will do:**
+- Add you to the GitHub repo as a collaborator
+- Invite you to the Railway project (Dev1)
+- Share production env vars via Telegram (not email)
+
+**What you DON'T need to ask for:**
+- Vercel — create your own free account and deploy yourself
+- Neon — create your own free account (free tier is enough)
+- Anthropic / OpenAI — create your own accounts (free credits on signup)
+
+**Rule:** One ask, all at once. Don't drip-feed requests.
+
+---
+
+
 
 - [ ] GitHub account created, username sent to Shatrugna
 - [ ] Railway account created (Dev1)
